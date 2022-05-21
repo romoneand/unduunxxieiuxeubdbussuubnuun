@@ -64,9 +64,9 @@ elseif chat:match("!Vape") then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 
-    elseif chat:match("!RH") then
+    elseif chat:match("!RN") then
 
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/romoneand/ROMHUB/main/NewMain'))() 
+        loadstring(game:HttpGet('https:/loadstring(game:HttpGet('https://raw.githubusercontent.com/romoneand/ROMHUB/main/NewMain'))() 
 
 elseif chat:match("!Dex") then
 
