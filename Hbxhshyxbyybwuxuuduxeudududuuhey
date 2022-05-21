@@ -66,7 +66,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4Fo
 
     elseif chat:match("!RH") then
 
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/romoneand/script-hub-v2.0/main/NewMain'))()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/romoneand/ROMHUB/main/NewMain'))() 
 
 elseif chat:match("!Dex") then
 
