@@ -12,7 +12,7 @@ wait(1)
 
 game.StarterGui:SetCore("SendNotification", {
 
-    Title = "!cmd to show all command in console";
+    Title = "!cmd to show all cmd console ";
 
     Text = "make by romlnwza007#3770"; -- what the text says (ofc)
 
@@ -48,7 +48,7 @@ print("!keyboard = keyboard script loader")
 
 print("!anim = load animation gui")
 
-print("!kg = king legacy hub")
+print("!kl = king legacy hub")
 
 print("!bf = blox fruit hub")
 
